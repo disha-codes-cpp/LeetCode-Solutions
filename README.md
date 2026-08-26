@@ -11,4 +11,12 @@ My C++ solutions and practice from LeetCode
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
