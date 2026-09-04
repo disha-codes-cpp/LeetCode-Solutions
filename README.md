@@ -16,6 +16,7 @@ My C++ solutions and practice from LeetCode
 | ------- |
 | [0011-container-with-most-water](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0238-product-of-array-except-self](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -28,4 +29,8 @@ My C++ solutions and practice from LeetCode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
