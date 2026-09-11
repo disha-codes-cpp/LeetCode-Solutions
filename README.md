@@ -18,6 +18,7 @@ My C++ solutions and practice from LeetCode
 | [0033-search-in-rotated-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,9 @@ My C++ solutions and practice from LeetCode
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
