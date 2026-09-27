@@ -16,6 +16,7 @@ My C++ solutions and practice from LeetCode
 | ------- |
 | [0011-container-with-most-water](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -45,6 +46,7 @@ My C++ solutions and practice from LeetCode
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0410-split-array-largest-sum](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0704-binary-search) |
