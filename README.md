@@ -20,6 +20,7 @@ My C++ solutions and practice from LeetCode
 | [0238-product-of-array-except-self](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Dynamic Programming
 |  |
@@ -46,6 +47,7 @@ My C++ solutions and practice from LeetCode
 | [0033-search-in-rotated-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
