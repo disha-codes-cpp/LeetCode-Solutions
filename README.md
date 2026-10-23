@@ -28,6 +28,7 @@ My C++ solutions and practice from LeetCode
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,8 +62,13 @@ My C++ solutions and practice from LeetCode
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [1552-magnetic-force-between-two-balls](https://github.com/disha-codes-cpp/LeetCode-Solutions/tree/master/1552-magnetic-force-between-two-balls) |
 <!---LeetCode Topics End-->
